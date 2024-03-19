@@ -1,0 +1,39 @@
+.scheduleContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px; /* Adjust margin as needed */
+}
+
+.scheduleImage {
+  width: 200px; /* Adjust width as needed */
+  height: 200px; /* Adjust height as needed */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.scheduleList {
+  margin-left: 20px; /* Adjust margin as needed */
+}
+
+.scheduleHeading {
+  font-size: 1.5rem; /* Adjust font size as needed */
+  margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+.scheduleItems {
+  list-style: none;
+  padding: 0;
+}
+
+.scheduleItem {
+  margin-bottom: 10px; /* Adjust margin as needed */
+}
+
+.scheduleDate {
+  font-weight: bold;
+}
+
+.scheduleEvent {
+  margin-left: 10px; /* Adjust margin as needed */
+}

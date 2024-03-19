@@ -1,0 +1,82 @@
+/* Trainers.css */
+
+/* Background */
+.tgbg {
+  margin: 0;
+  padding: 0;
+  background-image: url('https://img.freepik.com/free-photo/sunset-aegean-sea-coast-ship-land-distance-water-greece_1268-16901.jpg?w=1380&t=st=1706291956~exp=1706292556~hmac=15db882d51e2e255f12567f6318fba70d14098d79377f35a2323fda5ce16b373');
+  background-size: cover;
+  font-family: Arial, sans-serif;
+  position: relative; /* Changed to relative */
+  width: 100%;
+  min-height: 100vh; /* Ensures the background covers the entire viewport */
+  display: flex;
+  justify-content: center; /* Centers the content horizontally */
+  align-items: center; /* Centers the content vertically */
+}
+
+/* Home icon */
+.homeicontran {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+/* Available Trainers Section */
+.views {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px; /* Adjust as needed */
+}
+
+.admintable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.admintable th,
+.admintable td {
+  border: 1px solid #ddd; /* Add borders to table cells */
+  padding: 8px;
+  text-align: left;
+}
+
+.admintable th {
+  background-color: #f2f2f2; /* Light gray background for table header */
+}
+
+/* Button styles */
+.button1345 {
+  background-color:rgb(188, 226, 244);
+  border-radius: 100px;
+  /* box-shadow: rgba(187, 177, 44, 0.2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px; */
+  color: rgb(0, 1, 0);
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Satisfy',cursive;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  height:90px;
+  width: 300px;
+  font-size: 20px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-top: 14%;
+  margin-left:77%;
+}
+.homeicontran{
+    width:50px;
+    height:50px;
+
+}
+.button1345:hover {
+  box-shadow: rgba(243, 236, 224, 0.35) 0 -25px 18px -14px inset,rgba(117, 130, 122, 0.25) 0 1px 2px,rgba(70, 73, 71, 0.25) 0 2px 4px,rgba(94, 95, 94, 0.25) 0 4px 8px,rgba(209, 228, 216, 0.25) 0 8px 16px,rgba(129, 135, 131, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+} 

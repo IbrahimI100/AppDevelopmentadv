@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+.academy{
+   background-size:cover ;
+    background-repeat: no-repeat;
+    height:160vh;
+    background-image: url(https://img.freepik.com/free-vector/mandala-design-background_79603-2153.jpg?w=1060&t=st=1706291297~exp=1706291897~hmac=7cc37830c453ddfa420eef3efc265b62f4fd38a6b2567c7dae547efbe4c400de);
+}
+.homeicon{
+  height:50px;
+  width:50px;
+ 
+}
+.about-me {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 80px;
+ 
+ 
+ 
+}
+.search1{
+  width:20%;
+  text-align: center;
+}
+.about-me1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 80px;
+    margin-bottom: 100px;
+   
+   
+  }
+.about-me p{
+  color: rgb(6, 6, 6);
+}
+.about-me img {
+  width: 500px;
+  max-width: 100%;
+  height: 40vh;
+  border-radius: 0px;
+}
+.about-me1 img {
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 0px;
+  }
+.about-me-text {
+  font-size: 30px;
+  color: #594c00;
+  text-transform: uppercase;
+ 
+}
+
+.about-me-text p {
+  font-size: 40px;
+  color: #474900;
+  text-align:center;
+  margin: 10px 0;
+}
+/* CSS for footer */
+
+.eventside{
+  font-size:15px;
+  text-align: center;
+}
+
+
+
+
+
+
+.quality p{
+    font-size:30px;
+}
+
+.image1{
+    height:10px;
+    width:10px;
+}
+.image2{
+    height:10px;
+    width:10px;
+}
+
+.image3{
+    height:10px;
+    width:10px;
+}
+.last{
+    background-color: #302f49;
+    border-top: 0.1px dotted #eeeeee;
+}
+.last p{
+  color:white;
+  padding-top:2px;
+  padding-bottom:2%;
+}
+
+.event1{
+  border:2px solid rgb(163, 154, 189); 
+  border-radius: 5px;
+  box-shadow:2px 2px 1px 1px rgb(245, 254, 226) ; 
+  margin-bottom: 5vh;
+  background-image:linear-gradient(#fe852e,#f1e7db);
+  color: white;
+  height:380px;
+
+}
+
+.event2{
+  margin-bottom: 5vh;
+  border:2px solid rgb(163, 154, 189); 
+  border-radius: 5px;
+  box-shadow:#121e6a ; 
+  box-shadow:2px 2px 1px 1px rgb(245, 254, 226) ; 
+
+  background-image:linear-gradient(#fe852e,#f1e7db);
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#EA4492,#FF9CDA,#428CD4,#004E9A,#041B2D); */
+  color: white;
+  height:380px;
+}
+.event3{
+  border:2px solid rgb(163, 154, 189); 
+  border-radius: 5px;
+  box-shadow:#121e6a ;
+  box-shadow:2px 2px 1px 1px rgb(245, 254, 226) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#fe852e,#f1e7db);
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#EA4492,#FF9CDA,#428CD4,#004E9A,#041B2D); */
+  color: white;
+  height:380px;
+}
+.event4{
+  border:2px solid rgb(163, 154, 189); 
+  border-radius: 5px;
+  box-shadow:#121e6a ; 
+  box-shadow:2px 2px 1px 1px rgb(245, 254, 226) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#fe852e,#f1e7db);
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#EA4492,#FF9CDA,#428CD4,#004E9A,#041B2D); */
+  color: white;
+  height:400px;
+}
+.event5{
+  border:2px solid rgb(163, 154, 189); 
+  border-radius: 5px;
+  box-shadow:#121e6a ; 
+  box-shadow:2px 2px 1px 1px rgb(245, 254, 226) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#fe852e,#f1e7db);
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#EA4492,#FF9CDA,#428CD4,#004E9A,#041B2D); */
+  color: white;
+  height:400px;
+}
+.event6{
+  border:2px solid rgb(163, 154, 189); 
+  border-radius: 5px;
+  box-shadow:#121e6a ; 
+  box-shadow:2px 2px 1px 1px rgb(245, 254, 226) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#fe852e,#f1e7db);
+  /* box-shadow:7px 7px 10px 10px rgb(83, 81, 94) ; 
+  padding: 5px 5px 5px 5px;
+  background-image:linear-gradient(#EA4492,#FF9CDA,#428CD4,#004E9A,#041B2D); */
+  color: white;
+  height:400px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Caslon+Text:400,700&display=swap');
+
+
+.button-33 {
+  
+  background-color:#594c00;
+  position: relative;
+  border-radius: 100px;
+  color: rgb(252, 251, 254);
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  margin-left: 30%;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+
+}
+
+.button-33:hover {
+  
+  box-shadow: rgba(224, 187, 39, 0.35) 0 -25px 18px -14px inset,rgba(246, 194, 24, 0.25) 0 1px 2px,rgba(224, 191, 23, 0.25) 0 2px 4px,rgba(253, 200, 24, 0.25) 0 4px 8px,rgba(226, 239, 34, 0.25) 0 8px 16px,rgba(220, 194, 23, 0.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}
+.p1{
+    text-align: center;
+    margin-top: 1%;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+
+}
+.p2{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+}
+.p4{
+    margin-top:4%;
+    text-align: center;
+    color: black;
+}
+.p3{
+    text-align: center;
+    color: black;
+}
+.academy {
+  /* Your existing styles */
+}
+
+.about-me {
+  display: flex;
+  flex-wrap: wrap;
+}
+.event {
+  width: 30%; /* Adjust width as needed */
+  margin: 10px; /* Adjust spacing between cards */
+  border: 1px solid #ccc; /* Add border */
+  padding: 10px; /* Add padding */
+  border-radius: 5px;
+  background-color: #f2d6b3; /* Add border radius for rounded corners */
+}
+
+.event img {
+  width: 100%; /* Make image fill the container */
+}
+
+/* Additional styling for event elements */
